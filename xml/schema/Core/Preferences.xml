@@ -153,7 +153,7 @@
     <name>address_standardization_provider</name>
     <type>varchar</type>
     <length>64</length>
-    <comment>object name of provider for address standarization</comment>
+    <comment>object name of provider for address standardization</comment>
     <add>1.8</add>
   </field>
   <field>
